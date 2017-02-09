@@ -31,7 +31,7 @@ public class _SampleAPI {
   public String htmlApi() {
     String html = "<html> " +
                       "<head><title>" + "Hello World" + "</title></head>" +
-                      "<body><h1>" + "Welcome to the world or REST" + "</h1></body>" +
+                      "<body><h1>" + "Welcome to the world of REST" + "</h1></body>" +
                   "</html>";
     return html;
   }
